@@ -5,7 +5,7 @@
 
 <div class="Container ">
     <h1 class=" pt-5">Dar clic para ejecutar tarea de Jenkins</h1>
-    <a class="btn btn-primary" href="http://localhost:8080/job/PROYECTO-MAVEN/build?token=TOKEN" role="button">Ejecutar</a>
+    <a class="btn btn-success" href="http://localhost:8080/job/PROYECTO-MAVEN/build?token=TOKEN" role="button">Ejecutar</a>
 </div>
 
 </body><script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
